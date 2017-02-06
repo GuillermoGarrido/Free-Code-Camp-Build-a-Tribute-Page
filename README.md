@@ -1,7 +1,7 @@
 # Free-Code-Camp-Build-a-Tribute-Page
 A tribute to Bernie Sanders using HTML and CSS.
 
-<b>The requirements for the this project are as follows:<b>
+<b>The requirements for the this project are as follows:</b>
 
 1)Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/.
 
